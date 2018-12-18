@@ -1,0 +1,51 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: brown;
+    text-align: center;
+    padding-top: 50px;
+}
+
+
+.container{
+  position:absolute;
+  background-color:darkgrey;
+  width:300px;
+  height:350px;
+    margin-left: 800px;
+    margin-top: 300px;
+    margin-bottom: auto;
+
+}
+#output{
+  display:block;
+  height:52px;
+  background-color:black;
+  margin:8px;
+    color: aliceblue;
+     font-size:45px;
+}
+.container button{
+  height:45px;
+  width:50px;
+  background-color:whitesmoke;
+  margin:5px 5px 5px 15px;
+    border-radius: 12px;
+
+
+#output{
+  font-size:80px;
+  text-align:right;
+  overflow:auto;
+    color:azure; 
+}
+
+.container button:hover{
+    background: pink;
+    cursor: pointer;
+    
+    
+}
+
